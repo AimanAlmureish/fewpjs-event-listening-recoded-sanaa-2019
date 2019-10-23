@@ -2,7 +2,8 @@ let listener = document.querySelector("input#input").addEventListener("click" ,a
 
 
 function addingEventListener() {
-  
+    alert('I was clicked!');
+
   
 
 }
